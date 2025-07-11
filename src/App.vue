@@ -95,7 +95,7 @@ export default {
   },
   methods:{
     goToGitHub(){
-      window.open('https://github.com/Bear-biscuit/ID_SharedWeb', '_blank');
+      window.open('https://github.com/pprunbot/IOS_Shared', '_blank');
     }
   },
   async created() {
